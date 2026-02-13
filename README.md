@@ -43,7 +43,7 @@ MySQL database name:
 ## Server runs on:
   - http://localhost:8080
 
-## 📡 API Base URL
+##  API Base URL
   - http://localhost:8080/api
 
 ---
